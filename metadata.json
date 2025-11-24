@@ -1,0 +1,5 @@
+{
+  "name": "Humbook festivalová hra",
+  "description": "Mobilní aplikace pro festival Městské knihovny v Praze. Obsahuje vědomostní kvízy a interaktivní stanoviště s integrací AI knihovnice.",
+  "requestFramePermissions": []
+}

@@ -22,7 +22,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onNavigate }) => {
             Vyber si – můžeš zkusit vědomostní kvíz anebo si něco vyzkoušet na našich stanovištích a zjistit během vyrábění a zkoušení odpovědi na naše otázky.
           </p>
           <div className="mt-4 pt-4 border-t border-gray-100 font-semibold text-mkp-red">
-            Zjisti heslo a naše AI knihovnice ti poradí, kde získáš razítko.
+            Zjisti heslo a knihovník, který miluje banány a je řádně chlupatý, Ti dá razítko.       
           </div>
         </div>
 

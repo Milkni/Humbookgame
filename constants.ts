@@ -22,7 +22,7 @@ export const STATION_DATA: StationQuestion[] = [
   {
     id: 'ozo',
     title: 'Ozoboti',
-    question: 'Znáte nějakou knihu o robotech?',
+    question: 'Znáš nějakou knihu o robotech?',
     type: QuestionType.OPEN,
     placeholder: 'Napiš název...',
     rewardWord: 'NEJSTE',

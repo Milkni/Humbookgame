@@ -14,7 +14,7 @@ export const STATION_DATA: StationQuestion[] = [
   {
     id: 'vr',
     title: 'VR',
-    question: 'Kterou aplikaci nebo hru sis vyzkoušel?',
+    question: 'Kterou aplikaci nebo hru sis vyzkoušel/a?',
     type: QuestionType.OPEN,
     placeholder: 'Napiš název...',
     rewardWord: 'KNIHOVNOU',
